@@ -1,0 +1,23 @@
+{
+  "name": "ts-babel-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-preset-es2015-node": "4.0.1",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-shell": "^0.5.2",
+    "gulp-typescript": "^2.13.6"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
